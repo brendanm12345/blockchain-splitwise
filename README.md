@@ -18,3 +18,6 @@ npx hardhat run --network localhost scripts/deploy.js
  -- paste the contract address outputted by the above command into script.js line 103 --
 
 open web_app/index.html in browser
+
+-----------
+built for CS 251
